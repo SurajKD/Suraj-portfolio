@@ -56,17 +56,13 @@ p {
 
 .copyright {
     min-width: 300px;
-    margin: 0 3px;
     position: absolute;
-    bottom: 0;
+    font-size: 15px !important;
     z-index: 100;
     left: 50%;
     transform: translate(-50%);
 }
 
-.copyright p {
-    font-size: 15px !important;
-}
 
 
 .col-lg-6 img {
