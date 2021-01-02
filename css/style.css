@@ -54,6 +54,15 @@ p {
     background-color: transparent;
 }
 
+.copyright {
+    position: absolute;
+    z-index: 100;
+    bottom: 5px;
+
+    left: 50%;
+    transform: translate(-50%);
+}
+
 .col-lg-6 img {
     margin: 25px auto;
     width: 250px;
