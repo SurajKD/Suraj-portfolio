@@ -55,12 +55,18 @@ p {
 }
 
 .copyright {
+    min-width: 300px;
+    margin: 0 3px;
     position: absolute;
     z-index: 100;
-    bottom: 0;
     left: 50%;
     transform: translate(-50%);
 }
+
+.copyright p {
+    font-size: 15px !important;
+}
+
 
 .col-lg-6 img {
     margin: 25px auto;
