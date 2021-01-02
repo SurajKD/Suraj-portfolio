@@ -57,8 +57,7 @@ p {
 .copyright {
     position: absolute;
     z-index: 100;
-    bottom: 5px;
-
+    bottom: 0;
     left: 50%;
     transform: translate(-50%);
 }
