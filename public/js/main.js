@@ -40,7 +40,7 @@
                     $(card_item).removeClass("hidden");
                     $(card_item).addClass("active");
                     $(".grid-items").isotope("reloadItems").isotope();
-                    skillsDotted_resize();
+                    // skillsDotted_resize();
                 }
             }
             if (width < 1121) {
@@ -67,7 +67,7 @@
                 $("#card-" + current_id.replace("#", "")).addClass("current-menu-item");
             }
         }
-        setTimeout(skillsDotted_resize, 750);
+        // setTimeout(skillsDotted_resize, 750);
     });
 
     var url_hash = location.hash;
