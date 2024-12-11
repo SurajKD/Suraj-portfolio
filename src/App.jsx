@@ -116,16 +116,16 @@ const App = () => {
 
             <div class="social">
 
-              <a target="_blank" href="https://www.linkedin.com/in/suraj-das-ab722115b/"><i
+              <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/suraj-das-ab722115b/"><i
                 class="lab la-linkedin"></i></a>
-              <a target="_blank" href="https://leetcode.com/u/SurajKD/"> <i class="las la-code"></i> </a>
-              <a target="_blank" href="https://github.com/SurajKD"> <i class="lab la-github"></i> </a>
-              <a target="_blank" href="mailto:kdsuraj786@gmail.com"> <i class="las la-at"></i></a>
+              <a target="_blank" rel="noreferrer" href="https://leetcode.com/u/SurajKD/"> <i class="las la-code"></i> </a>
+              <a target="_blank" rel="noreferrer" href="https://github.com/SurajKD"> <i class="lab la-github"></i> </a>
+              <a target="_blank" rel="noreferrer" href="mailto:kdsuraj786@gmail.com"> <i class="las la-at"></i></a>
             </div>
 
           </div>
 
-          <a class="lnks" target="_blank"
+          <a class="lnks" target="_blank" rel="noreferrer"
             href="https://drive.google.com/file/d/1nUoEi2O1Qbw20YVc_95cwP_pds4p0O9_/view?usp=drive_link">
 
             <p>Download Resume</p>
@@ -268,7 +268,7 @@ const App = () => {
           <div class="l1"></div>
           <div class="row">
             <div class="col-lg-6">
-              <a href="https://suraj-calorie-counter.netlify.app/index.html" target="_blank"><img
+              <a href="https://suraj-calorie-counter.netlify.app/index.html" target="_blank" rel="noreferrer"><img alt='project'
                 src="img/p1.png" /></a>
             </div>
             <div class="col-lg-6">
@@ -279,7 +279,7 @@ const App = () => {
             </div>
             <div class="l3"></div>
             <div class="col-lg-6">
-              <a href="https://react-e-com-9821.netlify.app/" target="_blank"><img
+              <a href="https://react-e-com-9821.netlify.app/" target="_blank" rel="noreferrer"><img alt='project'
                 src="img/react-e-com.jpg" /></a>
             </div>
             <div class="col-lg-6">
@@ -289,7 +289,7 @@ const App = () => {
             </div>
             <div class="l3"></div>
             <div class="col-lg-6">
-              <a href="https://devlofox.com/home" target="_blank"><img src="img/devlofox.jpg" /></a>
+              <a href="https://devlofox.com/home" target="_blank" rel="noreferrer"><img alt='project' src="img/devlofox.jpg" /></a>
             </div>
             <div class="col-lg-6">
               <h3>Company Website</h3>
@@ -298,7 +298,7 @@ const App = () => {
             </div>
             <div class="l3"></div>
             <div class="col-lg-6">
-              <a href="https://redcliffelabs.com/" target="_blank"><img src="img/redcliffe.jpg" /></a>
+              <a href="https://redcliffelabs.com/" target="_blank" rel="noreferrer"><img alt='project' src="img/redcliffe.jpg" /></a>
             </div>
             <div class="col-lg-6">
               <h3>Redcliffe Labs</h3>
