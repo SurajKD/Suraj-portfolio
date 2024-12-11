@@ -427,7 +427,7 @@ input[type=submit]:hover {
     left: 0;
     width: 100%;
     height: 100vh;
-    background: url(/img/nvK7w.png);
+    background: url(../img/nvK7w.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1265,10 +1265,10 @@ input[type=submit]:hover {
     top: 0;
     width: 100%;
     height: 52%;
-    background-color: rgba(46, 202, 127, 0.1);
+    background-color: rgba(0, 0, 0, 0.2);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: contain;
     border-radius: 4px 4px 0 0;
     -moz-border-radius: 4px 4px 0 0;
     -webkit-border-radius: 4px 4px 0 0;
@@ -1581,14 +1581,6 @@ input[type=submit]:hover {
 .card-started .profile .slide:after {
     z-index: 3;
 }
-
-
-
-.card-started .profile .slide,
-.content-sidebar .profile .slide {
-    background-color: rgba(255, 242, 80, 0.1);
-}
-
 
 .card-started:before {
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.1);
